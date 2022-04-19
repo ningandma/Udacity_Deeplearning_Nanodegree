@@ -1,5 +1,5 @@
-# Udacity Deeplearning Nanodegree (https://www.udacity.com/course/deep-learning-nanodegree--nd101)
-Projects from Udacity Deep Learning Nanodegree Program, 2018 iteration
+# Udacity Deeplearning Nanodegree 
+Projects from Udacity Deep Learning Nanodegree Program, 2018 iteration (https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 
 1) Neural Networks - predict number of bike share users on a given day: https://github.com/ningandma/Udacity_Deeplearning_Nanodegree/blob/master/1_predict_bike_sharing/predict_bike_sharing.ipynb
 2) Convolutional Neural Networks - dog breed classifier using CNN: https://github.com/ningandma/Udacity_Deeplearning_Nanodegree/blob/master/2_dog_breed_classifer/dog_app.ipynb
