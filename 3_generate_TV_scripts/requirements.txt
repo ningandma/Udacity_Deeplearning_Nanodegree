@@ -22,7 +22,7 @@ notebook==4.4.1
 numpy==1.21.0
 packaging==21.3
 pandocfilters==1.4.1
-pexpect==4.2.1
+pexpect==4.8.0
 pickleshare==0.7.4
 prompt-toolkit==1.0.14
 protobuf==3.2.0
