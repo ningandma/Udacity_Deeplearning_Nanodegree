@@ -37,8 +37,8 @@ six==1.16.0
 tensorflow==2.8.0
 terminado==0.13.3
 testpath==0.3
-tornado==6.1
-traitlets==4.3.2
+tornado==4.4.3
+traitlets==5.1.1
 wcwidth==0.2.5
 webencodings==0.5
 widgetsnbextension==2.0.0
