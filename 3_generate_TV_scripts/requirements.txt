@@ -36,7 +36,7 @@ simplegeneric==0.8.1
 six==1.16.0
 tensorflow==2.8.0
 terminado==0.13.3
-testpath==0.3
+testpath==0.6.0
 tornado==4.4.3
 traitlets==5.1.1
 wcwidth==0.2.5
